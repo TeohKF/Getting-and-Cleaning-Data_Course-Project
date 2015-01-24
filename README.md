@@ -10,6 +10,6 @@ The purpose is to create a R script named `run_analysis.R' that does the followi
 5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 Steps to work on this course project
 
-To generate the required data set, first download the original data files and put them into your own folder, together with the R script file. Set the working directory to be the folder you put these files.
+To generate the required data set, first download the original data files and put them into your own folder, together with the R script file. Set the working directory of R to be the folder you put these files.
 
 Run the script which will automatically generate a txt file named `tiny_data.txt' in the same folder.
