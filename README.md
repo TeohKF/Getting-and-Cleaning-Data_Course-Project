@@ -12,4 +12,4 @@ Steps to work on this course project
 
 To generate the required data set, first download the original data files and put them into your own folder, together with the R script file. Set the working directory of R to be the folder you put these files.
 
-Run the script which will automatically generate a txt file named `tiny_data.txt' in the same folder.
+Run the script `run\_analysis.R', which will automatically generate a txt file named tiny_data.txt in the same folder.
