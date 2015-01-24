@@ -34,7 +34,7 @@ Specifically, the dataset consists of the followings:
 
       'train/Inertial Signals/body_gyro_x_train.txt': The angular velocity vector measured by the gyroscope for each window sample. The units are radians/second.
 
-# Purposes of cleaning of the data：
+# Purposes of the cleaning of the data：
 
 1. Merges the training and the test sets to create one data set.
 2. Extracts only the measurements on the mean and standard deviation for each measurement.
@@ -42,4 +42,12 @@ Specifically, the dataset consists of the followings:
 4. Appropriately labels the data set with descriptive activity names.
 5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
+# Transformations performed
+
+1. Require the revelant packages.
+2. Load the train and test data.
+3. Load the features and labels.
+4. Extract the required measurements only.
+5. Name/label the activities propoerly in the data set.
+6. Process and merge the data
 
